@@ -18,25 +18,4 @@ Repositorio de práctica progresiva que documenta el aprendizaje desde los funda
 - `03_analisis_datos/`: datasets y análisis exploratorio con pandas.
 - `04_sql/`: esquemas y consultas SQL.
 
-## Guía de commits
 
-Se recomienda utilizar mensajes de commit semánticos:
-
-- `feat:` para agregar una funcionalidad o contenido nuevo.
-- `docs:` para modificar documentación.
-- `refactor:` para reorganizar o mejorar código sin cambiar su comportamiento.
-- `test:` para agregar o modificar pruebas.
-
-Ejemplos:
-
-```text
-feat: agregar práctica de diccionarios
-docs: actualizar hoja de ruta
-refactor: reorganizar ejemplos de funciones
-test: agregar pruebas para validación de datos
-```
-
-## Requisitos mínimos
-
-- Python 3.10 o superior.
-- Git.
